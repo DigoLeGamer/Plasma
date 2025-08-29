@@ -5,7 +5,7 @@ if V1 == "" then
 	
 else
 	if V1 == "help" then
-		output("idk", 1)
+		output("command not working", 1)
 	else
 		output("command not found", 2)
 	end
